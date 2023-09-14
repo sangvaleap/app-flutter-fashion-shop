@@ -5,13 +5,7 @@
 
 - [My Patreon](https://www.patreon.com/sangvaleap)
 - [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
-- [My Upwork](https://www.upwork.com/freelancers/~01482fe63544bbcb48)
 - [My Twitter](https://twitter.com/sangvaleap)
-
-- My Email: sangvaleap.vanny@gmail.com
-
-=> To access complete source code, please join [My Patreon](https://www.patreon.com/sangvaleap)
-
 
 <img width="600" alt="fs1" src="https://user-images.githubusercontent.com/86506519/153209520-a51f8aa3-fb00-464b-890f-1608e014e663.png">
 <img width="600" alt="fs2" src="https://user-images.githubusercontent.com/86506519/153209547-3767877a-5dd6-4fa9-8457-ebd4d82354ce.png">
